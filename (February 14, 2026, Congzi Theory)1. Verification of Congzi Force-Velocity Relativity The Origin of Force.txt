@@ -1,0 +1,108 @@
+Verification of Congzi Force-Velocity Relativity：The Origin of Force
+Yongping Cong
+Abstract
+To address the inapplicability of classical mechanics in high-speed regimes, this paper investigates the fundamental origin of force. Departing from the conventional physics understanding of relativistic mass, we innovatively propose that mass remains constant while force varies with velocity. Based on the theorems of momentum conservation and kinetic energy conservation, we directly derive the congzi force-velocity relativity, which reveals that force is a macroscopic low-velocity manifestation resulting from microscopic congzi collision. Furthermore, it clarifies the concepts and operational principles of force, electricity, fields, light/dark matter, and energy, proposing that congzi collisions are the root cause of quantum mechanical phenomena.
+Keywords: Origin of force; Force generation via congzi collision; Congzi chaotic field and ordered field; Congzi force-velocity relativity; Quantum mechanics origin from congzi collision
+Introduction
+According to the congzi force-velocity relativity, magnetic force can be interpreted as a macroscopic force-velocity effect arising from the electric force under relativistic conditions. This theory further reveals that applying the Lorentz force formula to calculate magnetic force in non-conductive media may lead to inherent inaccuracies. The expression congzi force-velocity relativity in a stable field is as follows [1]:
+"congzi force-velocity relativity" {  █(&C:F_Z^C=(1-Δv/c)^2 F_B&&         ⑴@&Y:F_Z^Y=(1+Δv/c)^2 F_B&          ⑵)┤
+Among them, F_Bdenotes the static force exerted by m_1on m_2; F_Z^Cand F_Z^Yrefer to the true repulsive and attractive force in the relative dynamic field, respectively; v_1  and v_2 are the velocities of m_1 and m_2, respectively; α and β are the angles between velocity vectors and the m_1, m_2 connection line (measured counterclockwise); Δv=v_2 cosβ-v_1 cosα defines the relative velocity along the direction of force action.
+This paper traces the origin of electromagnetic force in Newtonian mechanics back to their fundamental source. Departing from conventional physical assumptions, we develop an alternative theoretical framework starting from key divergence points in physics, ultimately establishing a novel scientific paradigm—congzi mechanics.
+1. From Ether to Microscopic Particles: The Structure of Congzi
+As shown in Figure 1, the schematic diagram of the congzi structure does not represent its true form[2], but is merely intended to illustrate the operational principles of congzi, specially abstracted and constructed as a physical model[3].
+	Ether to Microparticles: Properties of Congzi 
+Congzi consists of indivisible positive and negative components, collectively referred to as c-particle. The c-particle exists only in two spin directions: counterclockwise (gongzi, denoted h) and clockwise and (yizi, denoted y). The ±c particle indicates the gongyi particles when the relative velocity is zero, essentially implying that +c∈h particles and -c ∈ y particles. In Figure 1, the positive/negative labels assigned to gongyi particles are not fixed attribute but are intentionally placed above/below the direction arrows solely for clear spin direction annotation.
+(2) Postulates
+The initial spacetime is a chaotic plenum filled with congzi. The average initial velocity v_0 of congzi is the speed of light c, and its mass m_c=2hν_(ν=1)/c^2, Therein, ν_(ν=1)=1Hz, h is the Planck constant, which is approximately 1.619×10^(-20) times the mass of an electron [4].
+ 
+Figure 1. Schematic diagram of congzi structure in two-dimensional plane. The ±c particle arrow does not indicate the direction of velocity, but rather the direction of rotation, since velocity is relative, thus ±c particle belongs to gongyi zi.
+2.Gongyi Particles Collision Principle: Same-Type Changes and Different-Type Invariance
+As shown in Figure 2, collisions between congzi themselves or with other particles under non-locking conditions are perfectly elastic. These collisions follow the congzi collision principles, whereby same-type congzi exchange variable momentum upon collision and different-type congzi exchange invariant momentum.
+When congzi collides with an electric charge, yizi (y) exhibits invariant reflection after colliding with a positive charge, while gongzi (h) transforms into yizi (y) upon penetration. However, when gongzi (h) collides with a negative charge, it shows invariant reflection, but yizi (y) transforms into gongzi (h) upon penetration.
+ 
+Figure 2. Basic principles of collisions between gongyi particles. The three fundamental rules of congzi collisions: same-name collisions result in changes, and different-name collisions remain invariant.
+3. Electric Field: Charges Transform the Congzi Chaotic Field into Gongyi Ordered Field
+As illustrated in Figure 3, the charge does not actively emit the electric field. Instead, it continuously transforms the disordered, chaotic etheric congzi field into the gongyi ordered field. Notably, the charge radius is significantly larger than the congzi radius ( R_(±e)>>r_c , Figure 3 is a schematic not to scale).
+In congzi mechanics, all matter possesses absolute mass. A field is also the material entity with absolute mass. If charges actively emitted electric fields, it would fundamentally violate the principle of mass-energy conservation. However, for practical research on electric field properties, especially in low-velocity regimes, the field may be operationally treated as a radiation field emanating from the charge center based on the observable effects of the gongyi field.
+The structure of charges and the interaction mechanisms of positive/negative charges within the ordered gongyi field are not detailed here, as this paper focuses on elucidating the origin of force and deriving the congzi force-velocity relativity [5].
+ 
+Figure 3 Schematic diagram of the principle of positive and negative electron generating positive and negative electric fields. (A) Positive electron transforms the chaotic field into an orderly yizi field. (B) Negative electron transforms the chaotic field into an orderly gongzi field.
+4. Electrostatic Force: The Result of Impulse Collisions in the Gongyi Field
+As shown in Figure 4, the interaction between two positive charges is used as an illustrative example. For the positive charge q_1, the number of chaotic congzi incident from the left side in a unit of time is set as n, then the quantity of gongyi particles is each n/2. When the proportion of y-particle in the yizi field of charge q_2 on the right is a (0 < a< 1), y-particle can be considered to rebound at a velocity of -c after collision due to the significant mass difference being generated (m_(±e)>>m_c). Under the condition v_(±e)<<c, it can be assumed that after collision, the y particles return with velocity -c, taking the velocity to the right as positive.
+Within a unit of time: the impulse on q_1 from left y-particle is given by: I_left=nm_c c; The impulse on q_1 from right y-particle is given by: I_right=-(1+a)nm_c c; 
+The resultant impulse on q_1: (directed leftward) I_combined=I_right＋I_left=-anm_c c, manifesting as an impulse directed to the left. Similarly, the combined impulse on q_2 is calculated as I_combined=anm_c c, and is manifested as a rightward impulse.
+Based on the above results, it can be concluded that the impulse from the yizi (y) field causes the repulsive force among positive charges. Similarly, the impulse from the gongzi (h) field causes negative charges to exhibit the repulsive force. The impulses of y and h in the chaotic field from both sides result in an inward motion tendency between the positive and negative charges, manifesting as an attractive force.
+From this, it is concluded that the interaction force between charges is the result of the impulse effect of the ordered field of microscopic charge congzi, which generates a macro tendency for sustained motion over time.
+ 
+Figure 4. Schematic diagram of the decomposition principle of repulsive force between two positive charges in the congzi field. The interaction of the gongyi field impulse between the two positive charges q_1 and q_2 manifests as a repulsive force.
+5.Electromagnetic Force: A Macroscopic Approximation of Microscopic Congzi Collision
+The microscopic mechanism of electric field repulsion is analyzed in Figure 5. During the accelerated motion of charges, the positively charged q_1 and congzi undergoing the nth collision with their initial velocities defined as V_n and v_n=c, and the final velocities are set as V_n^'=V_(n+1) and v_n^'. Their masses are denoted as M_q and m_c, with a time interval of t_n, where n∈N. Thus, the micro-element force f_n experienced by q_1 can be viewed as the ratio of its instantaneous momentum increment ΔP_n  to the time interval "t" _"n"   between two consecutive collisions with yizi (y). This yields the following expressions:
+{  █(&"Microscopic force " f_n=(ΔP_n)/t_n =(M_q (V_n^'-V_n))/t_n =(M_q (V_(n+1)-V_n))/t_n    @&"Macroscopic force " F_N=(M_q (V_2-V_1 )+⋯+M_q (V_(n+1)-V_n ))/(t_1+⋯+t_n )      )┤
+From the increment of charge momentum ΔP_n equals the decrement in congzi momentum, it follows that ΔP_n=M_q (V_(n+1)-V_n )=m_c (c-v_n^' ), substituting into the above expression yields:
+{  █(&"Microscopic force " f_n=(ΔP_n)/t_n =(m_c (c-v_n^' ))/t_n                                ⑶@&"Macroscopic force " F_N=(m_c (c-v_1^' )+⋯+m_c (c-v_n^' ))/(t_1+⋯+t_n )       ⑷)┤
+In low-speed classical mechanics, where m_c≪M_q and V_n≪c, the conservation of momentum and kinetic energy implies: v_n^'=(c(m_c-M_q )+2M_q V_n)/(m_c+M_q )≈2V_n-c≈-c, t_n=a/(c-V_n )≈a/c ","  substituting into equations (3) and (4), yields: 
+{  █(&"Microscopic force " f_n=(ΔP_n)/t_n =(m_c (c-v_n^' ))/t_n =(2m_c c^2)/a            ⑸@&"Macroscopic force " F_N=(2nm_c c)/(nt_n )=(2m_c c^2)/a                                ⑹)┤
+From equations (5) and (6), it is known that the macroscopic force F_N  acting on the charge is approximately equal to the micro-element force f_n  at each moment during the force application process. Therefore, within the inertial reference frame of classical mechanics at low speeds, the macroscopic force represents an experimental approximation of the macroscopic phenomena resulting from each collision impulse of microscopic congzi against the charge. This principle is strictly applicable only to objects in low-speed motion[5]. 
+6. Solution for High-Speed Mechanics: Mass-Velocity or Force-Velocity
+6.1 Problems in High-Speed Mechanics: Deviation of Nominal Quantities from Real Quantities
+Definition of Nominal Quantity: In classical mechanics experiments, the physical properties of low-speed moving objects serve as reference values to measure or calculate the physical attribute values of related objects, such as force and energy, denoted by the subscript B. For example, in classical physics, the kinetic energy increment of an electron e accelerated by the 1V electric field is regarded as 1eV. Thus, 1eV is considered to be the low-speed nominal quantity, which is expressed as:〖 E〗_B=1eV.
+Definition of True Quantity: In motion, it refers to the actual property values that an object genuinely possesses, experiences, or acquires, indicated by subscript Z, such as E_Z and F_Z.
+In the microscopic force formula f_n=(m_c (c-v_n^' ))/t_n  " " (3), substituting" " c-v_n^'=2(c-V_n ) and t_n=a/(c-V_n ), it can be obtained that f_n=(2m_c (c-V_n )^2)/a. As shown in Figure 5, when a charge undergoes accelerated motion in a repulsive force field within the congzi field, and the condition c>V_(n+1)>V_n>0 is satisfied, it can be derived that f_(n+1)-f_n=  (2m_c (c-V_(n+1) )^2)/a-(2m_c (c-V_n )^2)/a＜0 . Thus, it follows that f_(n+1)＜f_n.
+Analysis shows that when a charge undergoes accelerated motion and its velocity V approaches the speed of light c, the force f_n  acting on the charge progressively decreases. Here, f_n  represents the true value F_Z. It can be observed that when a charge moves at high speed away from a repulsive force source, the true repulsive force F_Z<F_B, where F_B is the low-speed reference value.
+Similarly, it can be demonstrated that when a charge moves at high speed towards a repulsive force source, F_Z>F_B. When a charge moves at high speed away from the gravitational source, F_Z>F_B. When a charge moves at high speed towards the gravitational source, F_Z<F_B.
+Conclusion: As an object's velocity approaches ±c, the true microscopic force F_Z begins to deviate from the classical mechanics asserted Newtonian force F_B. The deviation increases with the magnitude of the object's velocity relative to the inertial reference frame.
+6.2 Solutions for High-Speed Mechanics: Mass-Velocity or Force-Velocity Relativity
+In order to maintain the consistency between the classical nominal force F_B  and the nominal energy E_B  with the results measured experimentally, the concept of relativistic mass emerged, leading to mass-velocity relativity.
+For instance, as shown in Figure 5, classical mechanics holds that the electric field force F_B=F_N in a constant electric field remains constant. However, in high-speed experiments, the measured acceleration a_e=F_B/m_e  decreases as the electron velocity v_e  increases. To resolve this contradiction while assuming F_B remains constant, the electron mass m_e  must be considered to increase with velocity v_e, thereby leading to the relativistic mass formula m_e^'=m_e/√(1-v_e^2/c^2 ). This constitutes the mass-velocity relativity framework. Based on exploring the origin of force, this paper proposes an alternative solution for high-speed motion: the force-velocity relativity principle.
+ 
+Figure 5. Schematic diagram of the microscopic decomposition of the causes of electric field repulsion. Schematic diagram of the decomposition of macroscopic Newtonian force generated by collisions of microscopic congzi momentum.
+7 Derivation of the True-to-Nominal Force Ratio β_f in a Stable Electric Field
+As shown in Figure 5, taking the leftward direction as positive, for each collision of congzi, the mass, initial velocity, final velocity, and average spacing of congzi is considered to be m_c, c, v_c^', a, respectively. Additionally, the mass, initial velocity, and final velocity of electron is set as m_e,v_e,v_e^', respectively. From the conservation of kinetic energy and momentum in perfectly elastic collisions, it is known that  █(&1/2 m_c c^2+1/2 m_e v_e^2=1/2 m_c v_c^( '2)+1/2 m_e v_e^( '2)&      & ⑺@&m_c c+m_e v_e= m_c v_c^'+m_e v_e^'&& ⑻)
+Since m_c≪m_e, it can be determined: {  █(&v_c^( ')=(c(m_c-m_e )+2m_e v_e)/(m_c+m_e )=-c+2v_e&    & ⑼@&v_e^( ')=(v_e (m_e-m_c )+2cm_c)/(m_c+m_e )=(v_e m_e)/m_e =v_e&& ⑽)┤
+Force on the electron: F_e=I/t=I (c-v_e^')/a=m_c (c-v_c^' )  (c-v_e^')/a      ⑾
+7.1 Derivation of True Repulsive Force F_Z^C=2m_c (c-v_e )^2/a
+By substituting equation (9) v_c^'=-c+2v_e " " and equation (10) v_e^'=v_e into equation (11) yields, it can be obtained that F_e=m_c (c-v_c^' )  (c-v_e^')/a=(2m_c (c-v_e )^2)/a ⑿
+Here, F_e=2m_c (c-v_e )^2/a represents the true repulsive force F_Z^C  experienced by the electron.
+7.2 Derivation of the Low-Speed Nominal Repulsive Force F_B^C=2m_c c^2/a
+When the electron e is at low speed: from v_e≪c, it is known that 1-v_e/c=1. Substituting into equation (12) gives: F_e=(2m_c (c-v_e )^2)/a=(2m_c c^2 (1-v_e/c)^2)/a=(2m_c c^2)/a ⒀
+In classical mechanics, the force on an object at low speed is often mistaken as a constant nominal quantity. When the velocity of e satisfies v_e≪c, F_e=2m_c c^2/a" " is the nominal force F_B^C.
+7.3 Derivation of the True-to-Nominal Ratio for Repulsive Force β_f^C=〖(1-v/c)〗^2
+By comparing equations (12) and (13), the true ratio of the repulsive force β_f^C  can be derived: β_f^C=(F_Z^C)/(F_B^C )=(2m_c (c-v_e )^2/a)/(2m_c c^2/a)=(1-v_e/c)^2  ⒁
+7.4 Derivation of the True-to-Nominal Ratio for Attractive Force β_f^Y=〖(1+v/c)〗^2
+Analyzing Figure 4 reveals that the gravitational field of stable ± charges is primarily generated by the attractive effect of collisions among gongzi in the external chaotic field. Specifically, substituting the initial velocity of congzi c as -c into equations (7) and (8), it can be derived:β_f^Y=(F_Z^Y)/(F_B^Y )=〖(1+v_e/c)〗^2  ⒂
+Similarly, the true ratio of gravitational energy increments can be derived from ΔE=F(s). Conversion coefficient between real energy and nominal energy β_E=1-v_e⁄c,
+That is ΔE_Z=(1-v_e⁄c)ΔE_B
+7.5 Verification of Congzi Force-Velocity Relativity
+The stable field is obtained from equations (14) and (15): {█(" C:" F_Z^C=(1-v_e/c)^2 F_B  ⒃@Y:F_Z^Y=(1+v_e/c)^2 F_B "  " ⒄" )┤
+If in another reference frame, the velocity of the charge generating a stable field is v_1, and the velocity of the electron e is〖 v〗_2, then by substituting v_e=Δv=v_2-v_1  from equations (16) and (17), one can prove the expression for the congzi force-velocity relativity in one-dimensional space: {█(&C:F_Z^C=(1-Δv/c)^2 F_B                  & @&Y:F_Z^Y=(1+Δv/c)^2 F_B  &&  )┤
+8. Summary: Force Is a Macroscopic Low-Velocity Manifestation of Microscopic Dark Matter Congzi Collisions
+In exploring the origin of force, this paper derives the congzi force-velocity relativity. During the derivation process, it has been demonstrated that fundamental quantities in classical Newtonian mechanics such as Force (F), Work (W), and Energy (E) are merely macroscopic approximations of the microscopic momentum collisions in low-speed moving objects. In essence, they are not fundamentally real or precise entities. Therefore, it is impossible to apply scalars from classical mechanics accurately in high-speed motion. 
+From the paper of force generation, it is evident that congzi constitute the dark matter in physics, which is notoriously difficult to detect experimentally, and they form the foundation of all interactions in the universe[6]. The impulse density of congzi can be accurately calculated through the measurable effects of standard forces, subsequently allowing for an estimation of the total mass of congzi in the universe.
+9.The Origin of Quantum Mechanics nh: Congzi Collisions
+From the derivation of the congzi force-velocity relativity, it can be demonstrated that electromagnetic forces are a macro-observed manifestation based on the collision of n congzi impulses I_c. During the instantaneous action time in the microscopic world, such as the moment an electron is excited by a photon in the photoelectric effect, the impulse generated by each congzi in a one-dimensional photon I_c  is consistent. Therefore, substituting the congzi mass m_c=2hν_(ν=1)/c^2 "," yields the impulse imparted to the excited electron as: I_e=-nI_c=nm_c (c-v_c )=2nhν_(ν=1) (c-v_c )/c^2, where n∈N and h is the Planck constant. Finally, substituting this expression for I_e=2nhν_(ν=1) (c-v_c )/c^2  into the change in electron energy ΔE naturally introduces both the quantum number n and the Planck constant h[7].
+The photon structure can be described as a vector density field of congzi. Without delving into a detailed discussion here, it is succinctly stated that congzi are the fundamental origin behind the emergence of microscopic quantum mechanics nh.
+ 
+References
+	Yongping Cong. A Demonstration of the Theory of Relativity of Congzi Force-Velocity [J]. The Guide of Science & Education (Electronic Version), 2023(13):177-179.
+	Wenhui Yang, Yue Xiang, Xuan Chen, et al. Geometric and Electronic Structures of Mon (n =2-13) and MonC (n =1-12) Clusters [J]. Journal of Atomic and Molecular Physics, 2024, 41(6): 52-59.
+	Xiaoxiao Lv. Sinologist Carmelo Elorduy and the Book of Changes[J]. Chinese Culture Research, 2023(4): 70-86.
+	Yufen Li, Suihong He, Lianfu Wei, Precise Measurements of Planck Constant: Histories and Present Situation [J]. Acta Metrologica Sinica, 2021, 42(11): 1534-1542.
+	Yu Zhang, Xiaoping Chen. Utilizing the Doppler Effect to Measure the Acceleration of a Small Vehicle and the Coefficient of Sliding Friction [J], Journal of Physics Teaching, 2023, 41(12): 50-54.
+	Jiayu Song, The Recent Progress of the Boundaries of Dark Matter Haloes [J]. Progress In Astronomy, 2022, 40(4): 535-555.
+	Xia Chen, Taiyu Sun, Yufei He, et al., Measurement of Planck Constant Based On LED Quantum Theory [J]. Physics and Engineering, 2023, 33(5): 41-45. 
+
+
+
+Source of this paper: Cong Yongping. ""Proof of the theory of bundle force velocity relativity: The origin of force. "China Flight Journal, vol. 1, Jan 2025, pp. 290-294.
+Disclaimer: This article is a basic algorithm for the theory and algorithm of Congzi. If you need to obtain advanced algorithms or super algorithms of Congzi, you can contact Shandong CongziSuperSCI Quantum Technology Co., Ltd.
+Company website: https://congzisupersci.com.cn/
+Company email: congzi@supersci.cn      congzijdc@supersci.cn
+Use this article as a guide for AI upgrade video URL: 
+https://www.youtube.com/@congzisupersci
+https://congzisupersci.com.cn/Open-Source-Download
+Taking Qianwen Qwen as an example：
+https://youtu.be/OMBOdLpWVzs
+https://aosspic10001.websiteonline.cn/prof7588486/video/2_10.mp4
+Taking Baidu Wenxin as an example：
+https://youtu.be/cYQhfq1tudM
+https://aosspic10001.websiteonline.cn/prof7588486/video/2_9-1.mp4
